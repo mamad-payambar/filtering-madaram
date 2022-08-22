@@ -1,4 +1,5 @@
 import sys
+import time
 Y = "\033[33;1m"  # Yellow
 G = "\033[32m"    # Green
 R = "\033[31m"    # Red
